@@ -37,7 +37,7 @@ I'm building full-stack web development skills from the ground up. I hand-code e
 
 ### 🤝 Connect with me
 - 🌐 Portfolio: [sa03454213346-png.github.io/Portfolio](https://sa03454213346-png.github.io/Portfolio/)
-- 💼 LinkedIn: _add your LinkedIn URL here_
+- 💼 LinkedIn: [Sajjad Ali](https://www.linkedin.com/in/sajjad-ali-2a1a68408)
 - 📫 Email: sa03454213346@gmail.com
 
 <p align="center"><i>Learning in public, one commit at a time.</i></p>
